@@ -121,10 +121,6 @@ body {
     border: 2px solid #009688;;
 }
 
-.enddate {
-    float: right;
-}
-
 .diviser {
     border-bottom: 4px solid #f0f0f0;
     margin: 20px;
@@ -170,4 +166,17 @@ a:hover.tooltips span {
   margin-left: -55px;
   z-index: 999;
   font-family: 'Nunito', sans-serif;
+}
+
+.width-picture-items {
+  width: 100%;
+  max-width: 200px;
+}
+
+.divider-items {
+  border-bottom: 1px solid #dddbd1;
+  margin: 20px;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
 }
