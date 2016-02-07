@@ -64,7 +64,7 @@ a {
 }
 .profileLinks li a {
   text-decoration: none;
-  color: #000;
+  color: #555;
 }
 .profileLinks li a:hover {
   color: #23527c;
