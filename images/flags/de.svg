@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" x="0" y="0" width="1300" height="650">
 <rect width="1300" height="216" x="0" y="0" fill="#000000" />
-  <rect width="1300" height="216" x="0" y="216" fill="#ce1126" />
-  <rect width="1300" height="218" x="0" y="432" fill="#fcd116" />
+  <rect width="1300" height="216" x="0" y="216" fill="#D00" />
+  <rect width="1300" height="218" x="0" y="432" fill="#FFCE00" />
 </svg>
 
