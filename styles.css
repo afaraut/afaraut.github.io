@@ -415,3 +415,7 @@ span.menu {
   font-size: 13px;
   font-weight: 900;
 }
+
+.bold {
+  font-weight: bold;
+}
